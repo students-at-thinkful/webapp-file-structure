@@ -18,7 +18,7 @@ root /
     / angular.js
     / fonts.css
     
-  _pics
+  _ pics
     / . png, jpg, etc
     
   _ html
