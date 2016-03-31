@@ -1,5 +1,17 @@
 # webapp-file-structure
 
+
+###### folder names
+```
+root /
+  /files
+  /pics
+  /html
+  /docs
+  /fonts
+```
+
+###### folders open
 ```
 root /
   /files
