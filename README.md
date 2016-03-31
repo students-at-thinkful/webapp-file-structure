@@ -14,21 +14,21 @@ root /
 ###### folders open
 ```
 root /
-  _ files
-    / angular.js
-    / fonts.css
+  / files
+    _ angular.js
+    _ fonts.css
     
-  _ pics
-    / . png, jpg, etc
+  / pics
+    _ . png, jpg, etc
     
-  _ html
-    / publicSite.html
-    / adminSite.html
-    / blogLayout.html
+  / html
+    _ publicSite.html
+    _ adminSite.html
+    _ blogLayout.html
     
-  _ docs
-    / . pdf, layouts, etc
+  / docs
+    _ . pdf, layouts, etc
     
-  _ fonts
-    / . various formats
+  / fonts
+    _ . various formats
 ```
